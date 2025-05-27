@@ -8,4 +8,3 @@ A simple Rock, Paper, Scissors game built using **HTML**, **CSS**, and **JavaScr
 - 🧠 Win/lose/draw logic
 - 📊 Real-time score updates
 - ✨ Smooth hover effects and transitions
-- 
